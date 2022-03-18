@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ravi" mode="merge"/>
+    <filter root="/content/ravi" mode="merge"/>
+    <filter root="/content/dam/ravi" mode="merge"/>
+</workspaceFilter>
