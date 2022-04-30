@@ -34,7 +34,7 @@ public class TestService {
 		if(StringUtils.isNotEmpty(templatePath)) {
 			HtmlEmail email = new HtmlEmail();
 			String htmlString = constructHtmlFromTemplate(prop, templatePath);
-			sendMailFinal(userMail, subject, htmlString, email);
+			sendMailFinal(userMail, subject, htmlString, e
 		}
 	}
 	
